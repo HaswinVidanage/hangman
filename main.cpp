@@ -10,7 +10,7 @@ int main()
   // number representing the number of wrong guesses the player
   // is allowed to make
   
-  //initializing objects
+  
   SimpleHangman simple("rhythm", 10);
   PassHangman game("Rhythm123", 10);
 
